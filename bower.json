@@ -1,0 +1,23 @@
+{
+  "name": "palacepizza",
+  "version": "0.0.0",
+  "homepage": "https://github.com/carbonfyre/palacepizza",
+  "authors": [
+    "Shane Ross <carbonfyre@gmail.com>"
+  ],
+  "description": "The Palace Pizza website.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.3",
+    "bootstrap": "~3.3.1"
+  }
+}
