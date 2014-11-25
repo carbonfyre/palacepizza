@@ -1,4 +1,5 @@
 bower_components
+node_modules
 public/lib
 palacepizza.sublime-project
 palacepizza.sublime-workspace
